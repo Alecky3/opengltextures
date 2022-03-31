@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Files\c++ programming\opengl\GLFW\textures\main.cpp(33,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  textures.vcxproj -> E:\Files\c++ programming\opengl\GLFW\textures\x64\Debug\textures.exe
